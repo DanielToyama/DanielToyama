@@ -4,7 +4,7 @@
 
 这里是户山兔兔，你也可以叫我Daniel_Lin.因为兴趣自学了一些Bot相关的开发 
 
-![](https://raw.githubusercontent.com/DanielToyama/DanielToyama/main/assets/github-contribution-grid-snake.svg)
+![](https://snake.danieltoyama.fun/snake.svg)
 
 ![](https://img.shields.io/badge/NodeJS-18.0-Green?style=for-the-badge&logo=Javascript&logoColor=Green)
 
