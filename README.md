@@ -4,11 +4,11 @@
 
 这里是户山兔兔，你也可以叫我Daniel_Lin.因为兴趣自学了一些Bot相关的开发 
 
-![](https://snake.danieltoyama.fun/snake.svg)
+![](https://snake.danieluu.top/snake.svg)
 
 ![](https://img.shields.io/badge/NodeJS-18.0-Green?style=for-the-badge&logo=Javascript&logoColor=Green)
 
-这是我的个人主页: https://DanielToyama.fun
+这是我的个人主页: https://Danieluu.top/
 
 ![DanielToyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielToyama)
 
