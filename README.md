@@ -10,6 +10,6 @@
 
 这是我的个人主页: https://Danieluu.top/
 
-![DanielToyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielToyama)
+[![Daniel's GitHub stats](https://github-stats-extended.vercel.app/api?username=danieltoyama)](https://github.com/stats-organization/github-stats-extended)
 
 
